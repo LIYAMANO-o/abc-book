@@ -1,0 +1,23 @@
+{
+  "name": "abc-book",
+  "version": "1.0.0",
+  "description": "gitbook",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LIYAMANO-o/abc-book.git"
+  },
+  "keywords": [],
+  "author": "LIYAMANO-o",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/LIYAMANO-o/abc-book/issues"
+  },
+  "homepage": "https://github.com/LIYAMANO-o/abc-book#readme",
+  "devDependencies": {
+    "gitbook-cli": "^2.3.2"
+  }
+}
